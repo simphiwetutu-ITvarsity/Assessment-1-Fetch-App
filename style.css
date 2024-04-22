@@ -1,0 +1,83 @@
+Body {
+    margin-left: 25%;
+}
+
+#submitForm {
+    background-color: #00db37;
+    border: solid 2px rgba(63, 11, 60, 0.055);
+    border-radius: 5em;
+    color: white;
+    width: 51%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#submitForm:hover {
+    background-image: linear-gradient(rgb(0, 238, 255), rgb(229, 255, 0));
+    border: solid 2px rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+#getData {
+    background-image: linear-gradient(red, yellow);
+    border: solid 2px rgb(255, 8, 0);
+    color: white;
+    width: 51%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#getData:hover {
+    background-image: linear-gradient(rgb(0, 204, 255), rgb(255, 0, 212));
+    border: solid 2px rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+#getList {
+    background-image: linear-gradient(red, yellow);
+    border: solid 2px rgb(255, 8, 0);
+    color: white;
+    width: 51%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#getList:hover {
+    background-image: linear-gradient(rgb(0, 204, 255), rgb(255, 0, 212));
+    border: solid 2px rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+#firstname {
+    border: solid 2px #0837c4;
+    color: grey;
+    width: 20%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#lastname {
+    border: solid 2px #0837c4;
+    color: grey;
+    width: 20%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
